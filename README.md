@@ -1,1 +1,1 @@
-# Introdu-o-Ci-ncia-da-Computa-o-DCE524-
+Sejam bem-vindos à disciplina de Introdução à Ciência da Computação (ICC)
